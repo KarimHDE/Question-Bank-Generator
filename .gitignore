@@ -1,0 +1,26 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.VC.db
+*.opendb
+
+# Build results
+x64/
+*.obj
+*.exe
+*.log
+*.tlog
+*.pch
+*.pdb
+*.ilk
+
+# Debug folders
+**/Debug/
+**/Release/
+
+# Others
+*.cache
+*.ncb
+*.sdf
+*.VC.opendb
